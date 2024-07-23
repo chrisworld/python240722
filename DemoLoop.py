@@ -17,3 +17,4 @@ print([i**2 for i in lst if i > 5])
 tp = ("apple", "orange")
 print([len(i) for i in tp])
 
+
